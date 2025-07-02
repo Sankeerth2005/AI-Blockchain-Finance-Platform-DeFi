@@ -98,7 +98,7 @@ AI-Blockchain-Finance-Platform/
 1. **Clone the Repository:**
 
 ```bash
-git clone https://github.com/yourusername/AI-Blockchain-Finance-Platform.git
+git clone https://github.com/Sankeerth2005/AI-Blockchain-Finance-Platform.git
 cd AI-Blockchain-Finance-Platform
 ```
 
@@ -121,7 +121,6 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-> App will be available at: [http://localhost:8501](http://localhost:8501)
 
 ---
 
@@ -230,4 +229,4 @@ See the `LICENSE` file for details.
 ## 📬 **Contact**
 
 For issues or suggestions:  
-**[your email or GitHub issue tracker]**
+**[anchurusaisankeerth@gmail.com]**
